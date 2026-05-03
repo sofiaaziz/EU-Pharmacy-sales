@@ -20,6 +20,10 @@ The application is organized into several interactive modules to allow for granu
 5.  **📊 Univariate Analysis:** Statistical distributions and frequency analysis of key financial metrics.
 6.  **🔗 Multivariate Analysis:** Exploring correlations and relationships between revenue, costs, and margins.
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eu-pharmacy-sales.streamlit.app/)
+
+
 ## 📂 Data Dictionary
 The analysis is based on the `Cleaned_Pharmacy_Sales.csv` dataset, which includes:
 
